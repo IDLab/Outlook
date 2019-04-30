@@ -9,5 +9,4 @@ The ipython notebook did run with the following environment on a CentOS Linux 7.
 - npm 0.1.1
 - pip 19.1
 - pyvis 0.1.6.0
-- rise 5.4.1
 - pandas 0.24.2
